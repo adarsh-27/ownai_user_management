@@ -53,7 +53,7 @@ API Endpoints
                 "name": "John Doe",
                 "email": "john@example.com",
                 "password": "123456",
-                "role": "Staff",
+                "role": "Staff/Admin",
                 "phone": "1234567890",
                 "city": "New York",
                 "country": "USA"
